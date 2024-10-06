@@ -1,4 +1,4 @@
-import Card from "../Fragments/card";
+import Card from "../Fragments/Card";
 import ScrollRight from "../Elements/Scroll/ScrollRight";
 import ScrollLeft from "../Elements/Scroll/ScrollLeft";
 import { useRef, useState } from "react";
