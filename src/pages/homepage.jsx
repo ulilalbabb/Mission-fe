@@ -1,6 +1,6 @@
 import Navbar from "../components/Elements/Navbar/Navbar";
 import Hero from "../components/Elements/Hero/Hero";
-import Footer from "../components/Elements/footer/Footer";
+import Footer from "../components/Elements/Footer/Footer";
 import CardLayouts from "../components/Layouts/CardLayouts";
 import TopCardsLayouts from "../components/Layouts/TopCardsLayouts";
 import TrendingCardsLayouts from "../components/Layouts/TrendingCardsLayouts";
